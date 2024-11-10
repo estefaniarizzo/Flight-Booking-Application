@@ -37,5 +37,26 @@ Esta es una aplicación para la búsqueda y gestión de vuelos. Fue desarrollada
    - [Git](https://git-scm.com/)
 2. Clonar este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/flight-booking-app.git
+   git clone https://github.com/tuusuario/flight-booking-frontend.git](https://github.com/estefaniarizzo/Flight-Booking-Application.git
    cd flight-booking-app
+
+
+
+
+3. Navega al directorio del frontend:
+
+```
+
+cd flight-booking-frontend
+```
+
+4. Instala las dependencias:
+```
+npm install
+```
+
+Ejecuta la aplicación:
+```
+npm start
+```
+El frontend debería estar corriendo en http://localhost:3001 (o el puerto configurado).
