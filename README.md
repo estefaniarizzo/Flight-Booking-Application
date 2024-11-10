@@ -55,7 +55,7 @@ cd flight-booking-frontend
 npm install
 ```
 
-Ejecuta la aplicación:
+5. Ejecuta la aplicación:
 ```
 npm start
 ```
