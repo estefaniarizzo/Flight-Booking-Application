@@ -1,0 +1,31 @@
+.flights {
+  padding: 20px;
+}
+
+.sort-options {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+
+.sort-options label {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #002f6c;
+}
+
+.sort-options select {
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+
+.sort-options select:focus {
+  border: 1px solid #002f6c;
+  box-shadow: 0 0 8px rgba(0, 47, 108, 0.5);
+}
